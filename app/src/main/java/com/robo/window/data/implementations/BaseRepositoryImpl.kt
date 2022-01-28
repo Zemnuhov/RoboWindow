@@ -1,4 +1,4 @@
-package com.robo.window.data
+package com.robo.window.data.implementations
 
 import androidx.lifecycle.LiveData
 import com.robo.window.domain.repository.BaseRepository
